@@ -4,6 +4,7 @@ const { getDefaultConfig } = require("expo/metro-config");
 const config = getDefaultConfig(__dirname);
 
 config.resolver.sourceExts.push("cjs");
+config.resolver.assetExts.push("pdf");
 
 config.resolver.resolveRequest = (context, moduleName, platform) => {
   if (moduleName.startsWith("@firebase/") || moduleName === "firebase" || moduleName.startsWith("firebase/")) {
