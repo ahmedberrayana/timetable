@@ -1,0 +1,14 @@
+{
+  "login": "Se connecter", "email": "E-mail", "password": "Mot de passe", "logout": "Se déconnecter",
+  "loginError": "E-mail ou mot de passe incorrect. Vérifiez et réessayez.",
+  "noProfile": "Votre compte n'a pas encore de profil. Contactez un administrateur.",
+  "timetable": "Emploi du temps", "professors": "Professeurs", "manual": "Manuel d'utilisation",
+  "slots": "Gérer les créneaux", "addSlot": "Ajouter un créneau", "saveSlot": "Enregistrer",
+  "noClasses": "Aucun cours ce jour.", "call": "Appeler", "emailProf": "E-mail",
+  "cancel": "Annuler le cours", "edit": "Modifier", "delete": "Supprimer",
+  "day": "Jour", "start": "Début (HH:MM)", "end": "Fin (HH:MM)", "room": "Salle",
+  "group": "Groupe", "course": "Matière", "type": "Type", "status": "Statut",
+  "openManual": "Ouvrir le manuel PDF",
+  "NORMAL": "Normal", "CANCELLED": "Annulé", "RESCHEDULED": "Reporté",
+  "confirmDelete": "Supprimer définitivement ce créneau ?", "fillAll": "Remplissez tous les champs."
+}

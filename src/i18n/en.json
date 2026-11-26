@@ -1,0 +1,14 @@
+{
+  "login": "Log in", "email": "Email", "password": "Password", "logout": "Log out",
+  "loginError": "Wrong email or password. Check them and try again.",
+  "noProfile": "Your account has no profile yet. Ask an administrator.",
+  "timetable": "Timetable", "professors": "Professors", "manual": "User manual",
+  "slots": "Manage slots", "addSlot": "Add slot", "saveSlot": "Save slot",
+  "noClasses": "No classes this day.", "call": "Call", "emailProf": "Email",
+  "cancel": "Cancel class", "edit": "Edit", "delete": "Delete",
+  "day": "Day", "start": "Start (HH:MM)", "end": "End (HH:MM)", "room": "Room",
+  "group": "Group", "course": "Course", "type": "Type", "status": "Status",
+  "openManual": "Open the PDF manual",
+  "NORMAL": "Normal", "CANCELLED": "Cancelled", "RESCHEDULED": "Rescheduled",
+  "confirmDelete": "Delete this slot permanently?", "fillAll": "Fill in every field."
+}

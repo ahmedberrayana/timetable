@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Timetable",
+    "slug": "timetable-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": { "package": "com.example.timetable" },
+    "plugins": [
+      ["expo-notifications", { "sounds": ["./assets/alert_tone.mp3"] }]
+    ]
+  }
+}
